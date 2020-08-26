@@ -35,6 +35,8 @@ const Form: React.FC<FormInterface> = (props) => {
             date: ''
         });
 
+        props.refreshList();
+
         setMessage({type: 'danger', message: ''});
     }
 
