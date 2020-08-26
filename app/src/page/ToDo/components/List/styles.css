@@ -1,0 +1,7 @@
+@import "../../../../../node_modules/font-awesome/css/font-awesome.min.css";
+
+#to-do-list{
+    border-top: 1px solid #000000;
+    height: calc(100vh - 340px);
+    overflow-x: auto;
+}
