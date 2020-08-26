@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@types/jest": "^24.9.1",
     "@types/node": "^12.12.52",
-    "@types/react": "^16.9.43",
+    "@types/react": "^16.9.47",
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.1",
     "axios": "^0.20.0",
@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@types/react-router-dom": "^5.1.5",
-    "@typescript-eslint/eslint-plugin": "^3.10.0",
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
     "@typescript-eslint/parser": "^2.9.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^4.1.0",
